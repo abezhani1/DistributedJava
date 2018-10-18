@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Oct 15 20:34:44 CDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0166-7a82-cd51-00000e4d15e8 
+on database directory /Volumes/ABEZHANIUSB/Distributed Java/Project6/WeaponDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Applications/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/Volumes/ABEZHANIUSB/Distributed Java/Project6
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
