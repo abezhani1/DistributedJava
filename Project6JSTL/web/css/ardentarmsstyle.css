@@ -1,0 +1,46 @@
+body {
+	background-color: #ff944d;
+	color: #000000;
+	font-family: Verdana, "Arial", sans-serif;
+}
+
+header {
+	background-color: #ff944e;
+}
+
+nav {
+	font-weight: bold;
+}
+
+nav a {
+	text-decoration: none;
+}
+
+h1 {
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+h2 {
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+h3 {
+	background-color: #ff9444;
+	text-transform: uppercase;
+}
+
+ul {
+	list-style-image: url(../img/marker2.gif);
+}
+
+dt {
+	font-weight: bold;
+}
+
+footer {
+	background-color: #ffdb4d;
+	color: #000000;
+	text-align: center;
+	font-style: italic;
+	font-size: .60em;
+}
